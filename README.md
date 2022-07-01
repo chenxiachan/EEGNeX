@@ -1,5 +1,5 @@
 # EEGNeX
-About Open source code of paper: Toward reliable signals decoding for brain EEG.<br>
+About Open source code of paper: *Toward reliable signals decoding for brain EEG*.<br>
 
 ---
 ![image](https://user-images.githubusercontent.com/106488602/176918224-4b24bf92-109e-48e8-b74b-8f44c5ba76b4.png)
