@@ -23,13 +23,14 @@ This notebook is released for easy implementation of running all benchmarkmodels
 - *EEGNet_8_2*
 - *EEGNeX_8_32*
 
-For running the code, please run notebook Run_model.ipynb
+For running the code, please run notebook `Run_model.ipynb`
 
 Additional python packages required:
 - keras 2.8.0
 - tensorflow 2.8.0
 - torch 1.10.2
 
+The result folder contains validation results of running benchmarkmodels on four EEG datasets from paper.<br> 
 
 ![image](https://user-images.githubusercontent.com/106488602/176917267-b70cc98f-3b3c-4e19-a38e-2abdbe43d78f.png)<br>
 <i>EEGNeX architecture</i>
