@@ -35,8 +35,9 @@ The result folder contains validation results of running benchmarkmodels on four
 ![image](https://user-images.githubusercontent.com/106488602/176917267-b70cc98f-3b3c-4e19-a38e-2abdbe43d78f.png)<br>
 <i>EEGNeX architecture</i>
 
-<hr>
+---
 <br>
+
 More models are planned to be added:
 - DeepConvNet
 - ShallowConvNet
