@@ -36,7 +36,6 @@ The result folder contains validation results of running benchmarkmodels on four
 <i>EEGNeX architecture</i>
 
 ---
-<br>
 
 More models are planned to be added:
 - DeepConvNet
