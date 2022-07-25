@@ -2,6 +2,7 @@
 About Open source code of paper: *Toward reliable signals decoding for electroencephalogram: A benchmark study to EEGNeX*.<br>
 
 <a href="https://github.com/chenxiachan/EEGNeX/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/chenxiachan/EEGNeX"></a>
+<a href="https://github.com/chenxiachan/EEGNeX/blob/main/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/chenxiachan/EEGNeX"></a>
 
 ---
 ![image](https://user-images.githubusercontent.com/106488602/176918224-4b24bf92-109e-48e8-b74b-8f44c5ba76b4.png)
