@@ -2,6 +2,7 @@
 
 <a href="https://github.com/chenxiachan/EEGNeX/blob/main/LICENSE.md"><img alt="GitHub license" src="https://img.shields.io/github/license/chenxiachan/EEGNeX"></a>
 <a href="https://github.com/chenxiachan/EEGNeX/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/chenxiachan/EEGNeX?style=social"></a>
+<a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fchenxiachan%2FEEGNeX"><img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fchenxiachan"></a>
 
 About Open source code of paper: <br>*-Toward reliable signals decoding for electroencephalogram: A benchmark study to EEGNeX*.<br>
 -https://arxiv.org/abs/2207.12369
