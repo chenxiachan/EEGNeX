@@ -9,7 +9,7 @@ About Open source code of paper: <br>*-Toward reliable signals decoding for elec
 
 
 ---
-![image](https://user-images.githubusercontent.com/106488602/176918224-4b24bf92-109e-48e8-b74b-8f44c5ba76b4.png)
+![1](https://github.com/chenxiachan/EEGNeX/assets/106488602/d332538a-12a7-42af-bdd8-12583e85652e)
 
 
 This notebook is released for easy implementation of running all benchmarkmodels designed for electroencephalography(EEG) classification tasks, including:<br>
@@ -44,9 +44,6 @@ The result folder contains validation results of running benchmarkmodels on four
 <i>EEGNeX architecture</i>
 
 ![5](https://github.com/chenxiachan/EEGNeX/assets/106488602/8ccbdd55-d9df-46b4-aa99-94ddac7b11fc)
-
-<br>
-<i>EEGNeX Result</i>
 
 ---
 
