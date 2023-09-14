@@ -39,8 +39,14 @@ Additional python packages required:
 
 The result folder contains validation results of running benchmarkmodels on four EEG datasets from paper.<br> 
 
-![image](https://user-images.githubusercontent.com/106488602/176917267-b70cc98f-3b3c-4e19-a38e-2abdbe43d78f.png)<br>
+![4](https://github.com/chenxiachan/EEGNeX/assets/106488602/f5ff3de7-bf65-4cc6-803b-8786216a4d29)
+<br>
 <i>EEGNeX architecture</i>
+
+![5](https://github.com/chenxiachan/EEGNeX/assets/106488602/8ccbdd55-d9df-46b4-aa99-94ddac7b11fc)
+
+<br>
+<i>EEGNeX Result</i>
 
 ---
 
